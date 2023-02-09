@@ -1,5 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jean-Da-Rocha&count_private=true&show_icons=true&theme=material-palenight)
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Juanitr0)](https://github.com/KnlnKS/leetcode-stats)
+
 
 <!--
 **Jean-Da-Rocha/Jean-Da-Rocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
